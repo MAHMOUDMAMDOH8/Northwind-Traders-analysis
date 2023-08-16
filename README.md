@@ -1,9 +1,9 @@
 # Northwind-Traders-analysis
-Data Collection: I gathered relevant data from various sources, ensuring that it was accurate and comprehensive.
+Data Collection: I gathered relevant data from mavenanalytics
 
 Data Transformation: Using Power Query, I cleaned and transformed the data to make it suitable for analysis.
 
-Data Modeling: I designed a logical data model, establishing relationships between different data tables.
+Data Modeling: I designed a logical data model, establishing relationships between different data tables and make a star schema
 
 DAX Implementation: I employed DAX to create calculations that provide deeper insights into the data, such as revenue growth, year-over-year comparisons, and more.
 
