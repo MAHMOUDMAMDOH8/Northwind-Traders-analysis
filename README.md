@@ -12,3 +12,9 @@ DimDate Creation: Through DAX, I constructed a dynamic DimDate table, enabling t
 Visual Dashboard: I developed an interactive dashboard with intuitive visualizations that allow users to explore data trends effortlessly.
 
 Report Generation: The project culminates in a comprehensive report that presents findings, insights, and recommended actions.
+
+![sales](https://github.com/MAHMOUDMAMDOH8/Northwind-Traders-analysis/assets/111503676/85d9e710-46f1-4e69-86ee-26fe3e8868f2)
+
+![product](https://github.com/MAHMOUDMAMDOH8/Northwind-Traders-analysis/assets/111503676/311b11a4-45d5-4a09-ac96-d8a2f67049a8)
+
+![customers](https://github.com/MAHMOUDMAMDOH8/Northwind-Traders-analysis/assets/111503676/2619b2b1-da49-48ae-a8bd-3e5ef584d02d)
